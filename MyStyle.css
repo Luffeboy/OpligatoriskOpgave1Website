@@ -1,0 +1,30 @@
+p
+{
+    margin-bottom: 0px;
+}
+hr
+{
+    height: 200%;
+
+}
+h1
+{
+    color: blue;
+    text-align: center;
+}
+.top
+{
+    background-color: #FFFFCC;
+}
+.container
+{
+    display: flex;
+}
+.wrapper
+{
+
+}
+.introduction
+{
+    text-align: center;
+}
